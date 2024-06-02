@@ -24,4 +24,4 @@ Player A and player B were kept consistent throughout the rounds. Each player pl
 ## The Game
 ![monopoly-deal](https://github.com/paige-ingram/monopoly-deal/assets/77078416/25389d6a-05aa-45e8-a83b-1a6fbeede564)
 
-For more information about the rules of Monopoly Deal, click [here]([url](https://www.monopolydealrules.com/index.php?page=play)). 
+For more information about the rules of Monopoly Deal, click [here](https://www.monopolydealrules.com/index.php?page=play). 
